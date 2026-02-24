@@ -4,7 +4,7 @@
 To develop a convolutional deep neural network (CNN) for image classification and to verify the response for new images.
 
 ## DESIGN STEPS
-```
+
 1. Load and Preprocess Data
 2. Get the shape of the first image in the training dataset
 3. Get the shape of the first image in the test dataset
@@ -12,7 +12,7 @@ To develop a convolutional deep neural network (CNN) for image classification an
 5. Test the Model
 6. Predict on a Single Image
 7. Display the image
-```
+
 
 ## PROGRAM
 
@@ -208,4 +208,4 @@ predict_image(model, image_index=80, dataset=test_dataset)
 
 
 ## RESULT
-Include your result here
+The Convolutional Neural Network (CNN) model was successfully trained and achieved good classification performance on the given image dataset.
